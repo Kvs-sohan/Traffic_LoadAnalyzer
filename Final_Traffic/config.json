@@ -1,0 +1,29 @@
+{
+  "system_settings": {
+    "emergency_mode": false,
+    "total_vehicles_processed": 57,
+    "system_efficiency": 8734.937628075704
+  },
+  "signals": {
+    "signal_0": {
+      "min_green_time": 8,
+      "max_green_time": 55,
+      "current_state": "RED"
+    },
+    "signal_1": {
+      "min_green_time": 10,
+      "max_green_time": 45,
+      "current_state": "RED"
+    },
+    "signal_2": {
+      "min_green_time": 10,
+      "max_green_time": 45,
+      "current_state": "RED"
+    },
+    "signal_3": {
+      "min_green_time": 10,
+      "max_green_time": 45,
+      "current_state": "RED"
+    }
+  }
+}
